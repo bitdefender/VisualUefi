@@ -1,6 +1,6 @@
 [submodule "edk2"]
 	path = edk2
-	url = https://github.com/ionescu007/edk2.git
+	url = https://github.com/tianocore/edk2.git
 [submodule "openssl"]
 	path = openssl
 	url = https://github.com/openssl/openssl
